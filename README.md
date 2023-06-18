@@ -4,7 +4,7 @@
 
 💻 Eu sou um desenvolvedor Back-End 
 
-👨‍🔬 Além disso sou pesquisador no Laboratório de Engenharia Computacional, onde dedico-me para o estudo de soluções em C++ para problemas relacionados a aerodinâmica dos fluidos.
+👨‍🔬 Além disso sou pesquisador no Laboratório de Engenharia Computacional da UFPE-CAA, onde dedico-me para o estudo de soluções em C++ para problemas relacionados a aerodinâmica dos fluidos.
 
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
