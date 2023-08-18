@@ -31,5 +31,5 @@ Sou um entusiasta em **desenvolvimento Back-end** e desde 2019 venho acumulando 
 
 
 ## GitHub Stats ⚡
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruskym&custom_title=Linguagens%20%mais%20%utilizadas&theme=tokyonight)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruskym&custom_title=Linguagens%20%mais%20%utilizadas&theme=tokyonight&hide=EJS,html,css)
 
