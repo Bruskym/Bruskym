@@ -27,7 +27,8 @@ Sou um entusiasta em **desenvolvimento Back-end** e desde 2019 venho acumulando 
 
 ### Entre em contato comigo:
 
-[LinkedIn](https://www.linkedin.com/in/antonio-naraujo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-naraujo/)
+
 
 ### GitHub Stats ⚡
 <div>
