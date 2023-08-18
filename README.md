@@ -2,11 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Back-End 
-
-👨‍🔬 Além disso sou pesquisador no Laboratório de Engenharia Computacional da UFPE-CAA, onde dedico-me para o estudo de soluções em C++ para problemas relacionados a aerodinâmica dos fluidos.
-
-🎓 Eu atualmente estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/) 
+Sou um entusiasta em desenvolvimento Back-end, com experiência em tecnologias como TypeScript/Javascript e uso em back-end através do Node.js, Express e Fastify. Tenho trabalhado na criação de APIs e na implementação de testes automatizados usando bibliotecas como Jest e Vitest. Além disso, também tenho alguma exposição ao mundo do Java e do Spring Framework. Já explorei bancos de dados PostgreSQL e MongoDB para criar soluções simples que atendam às necessidades dos projetos. Estou sempre buscando aprender e aplicar as melhores práticas de desenvolvimento, enquanto continuo aprimorando minhas habilidades.
 
 ### Tecnologias e Ferramentas
 
