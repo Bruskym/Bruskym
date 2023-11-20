@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um entusiasta em desenvolvimento Back-end e desde 2019 venho acumulando experiência em tecnologias como TypeScript/Javascript e seu uso em back-end através do Node.js, Express e Fastify. Tenho trabalhado na criação de APIs e na implementação de testes automatizados usando bibliotecas como Jest e Vitest. Além disso, possuo sólida experiência em desenvolvimento web com Go (Golang), uma linguagem altamente eficiente e escalável. Já explorei bancos de dados PostgreSQL e MongoDB para criar soluções simples que atendam às necessidades dos projetos. Estou sempre buscando aprender e aplicar as melhores práticas de desenvolvimento, enquanto continuo aprimorando minhas habilidades.
+Sou um entusiasta em desenvolvimento Back-end e desde 2019 venho acumulando experiência em tecnologias como TypeScript/Javascript e seu uso em back-end através do Node.js, Express e Fastify. Tenho trabalhado na criação de APIs e na implementação de testes automatizados usando bibliotecas como Jest e Vitest. Além disso, possuo sólida experiência em desenvolvimento web com Go (Golang). Já explorei bancos de dados PostgreSQL e MongoDB para criar soluções simples que atendam às necessidades dos projetos. Estou sempre buscando aprender e aplicar as melhores práticas de desenvolvimento, enquanto continuo aprimorando minhas habilidades.
 
 ## Tecnologias e Ferramentas
 
