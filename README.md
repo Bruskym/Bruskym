@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um entusiasta em desenvolvimento Back-end e desde 2019 venho acumulando experiência em tecnologias como TypeScript/Javascript e seu uso em back-end através do Node.js, Express e Fastify. Tenho trabalhado na criação de APIs e na implementação de testes automatizados usando bibliotecas como Jest e Vitest. Além disso, possuo sólida experiência em desenvolvimento web com Go (Golang). Já explorei bancos de dados PostgreSQL e MongoDB para criar soluções simples que atendam às necessidades dos projetos. Estou sempre buscando aprender e aplicar as melhores práticas de desenvolvimento, enquanto continuo aprimorando minhas habilidades.
+Sou um entusiasta em desenvolvimento Back-end e desde 2019 venho acumulando experiência em tecnologias como TypeScript/Javascript e seu uso em back-end através do Node.js, Express e Fastify. Tenho trabalhado na criação de APIs e na implementação de testes automatizados usando bibliotecas como Jest e Vitest.Além disso, possuo uma sólida experiência no desenvolvimento web com Go (Golang), onde concentro meus esforços na construção de APIs eficientes e escaláveis. Tenho explorado a fundo as capacidades dessa linguagem para a criação de soluções de back-end, aplicando as melhores práticas de desenvolvimento para garantir desempenho e confiabilidade. Já explorei bancos de dados PostgreSQL e MongoDB para criar soluções simples que atendam às necessidades dos projetos. Estou sempre buscando aprender e aplicar as melhores práticas de desenvolvimento, enquanto continuo aprimorando minhas habilidades.
 
 ## Tecnologias e Ferramentas
 
@@ -16,6 +16,7 @@ Sou um entusiasta em desenvolvimento Back-end e desde 2019 venho acumulando expe
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Fastify](https://camo.githubusercontent.com/3923a37583bf8b9a81fabab80bcdc42a2db89566c6cdffa4bbfc53186a5bbeab/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4661737469667926636f6c6f723d303030303030266c6f676f3d46617374696679266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 ### Banco de dados
