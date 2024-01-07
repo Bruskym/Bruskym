@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um entusiasta em desenvolvimento Back-end e desde 2019 venho acumulando experiência em tecnologias como TypeScript/Javascript e seu uso em back-end através do Node.js, Express e Fastify. Tenho trabalhado na criação de APIs e na implementação de testes automatizados usando bibliotecas como Jest e Vitest. Além disso, possuo experiência no desenvolvimento web com Go (Golang), onde concentro meus esforços na construção de APIs eficientes e escaláveis. Tenho explorado a fundo as capacidades dessa linguagem para a criação de soluções de back-end, aplicando as melhores práticas de desenvolvimento para garantir desempenho e confiabilidade. Já explorei bancos de dados PostgreSQL e MongoDB para criar soluções simples que atendam às necessidades dos projetos. Estou sempre buscando aprender e aplicar as melhores práticas de desenvolvimento, enquanto continuo aprimorando minhas habilidades.
+Sou um entusiasta em desenvolvimento Back-end e desde 2019 venho acumulando experiência em tecnologias como TypeScript/Javascript e seu uso em back-end através do Node.js, Express e Fastify. Tenho trabalhado na criação de APIs e na implementação de testes automatizados usando bibliotecas como Jest e Vitest. Além disso, possuo experiência no desenvolvimento web com Go (Golang), onde concentro meus esforços na construção de APIs eficientes e escaláveis. Tenho explorado a fundo as capacidades dessa linguagem para a criação de soluções de back-end, aplicando as melhores práticas de desenvolvimento para garantir desempenho e confiabilidade. Já explorei bancos de dados PostgreSQL e MongoDB para criar soluções simples que atendam às necessidades dos projetos
 
 ## Tecnologias e Ferramentas
 
@@ -23,6 +23,9 @@ Sou um entusiasta em desenvolvimento Back-end e desde 2019 venho acumulando expe
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### Ferramentas 
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Entre em contato comigo:
 
