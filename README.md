@@ -1,8 +1,8 @@
 # Oi, me chamo Antonio 👋
 
-## Sobre mim
-
-Sou desenvolvedor Back-end e desde 2019 venho acumulando experiência em tecnologias como TypeScript/Javascript e seu uso em back-end através do Node.js, Express e Fastify. Tenho trabalhado na criação de APIs e na implementação de testes automatizados usando bibliotecas como Jest e Vitest. Além disso, possuo experiência no desenvolvimento web com Go (Golang), onde concentro meus esforços na construção de APIs eficientes e escaláveis. Tenho explorado a fundo as capacidades dessa linguagem para a criação de soluções de back-end, aplicando as melhores práticas de desenvolvimento para garantir desempenho e confiabilidade. Já explorei bancos de dados PostgreSQL e MongoDB para criar soluções simples que atendam às necessidades dos projetos
+## GitHub Stats ⚡
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruskym&custom_title=Linguagens%20%mais%20%utilizadas&theme=blue-green&hide=EJS,html,css)
+![Top Linguagens](https://github-readme-stats.vercel.app/api?username=Bruskym&theme=blue-green)
 
 ## Tecnologias e Ferramentas
 
@@ -16,12 +16,13 @@ Sou desenvolvedor Back-end e desde 2019 venho acumulando experiência em tecnolo
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ### Banco de dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Ferramentas 
 
@@ -32,6 +33,4 @@ Sou desenvolvedor Back-end e desde 2019 venho acumulando experiência em tecnolo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-naraujo/)
 
 
-## GitHub Stats ⚡
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruskym&custom_title=Linguagens%20%mais%20%utilizadas&theme=tokyonight&hide=EJS,html,css)
 
