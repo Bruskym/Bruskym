@@ -1,6 +1,5 @@
 # Oi, me chamo Antonio 👋
 
-## GitHub Stats ⚡
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruskym&custom_title=Linguagens%20%mais%20%utilizadas&theme=blue-green&hide=EJS,html,css)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api?username=Bruskym&theme=blue-green)
 
