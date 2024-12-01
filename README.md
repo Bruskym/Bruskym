@@ -8,14 +8,14 @@
 ### Linguagens de Programação
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks
 
 ![NodeJS](https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 
 ### Banco de dados
 
